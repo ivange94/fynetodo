@@ -4,6 +4,18 @@ A simple Todo App
 
 All todos are stored in memory and will be lost if when the app is closed.
 
+## Installing
+
+`git clone https://github.com/ivange94/fynetodo.git`
+
+`cd fynetodo`
+
+`go install`
+
+## Running the app
+
+To run the app just invoke the executable `fynetodo`.
+
 ## Adding a Todo
 To add a tody, just click on the *Add* button and enter the todo.
 
